@@ -1,15 +1,29 @@
 {
-  "name": "jsonresume-theme-asarolia",
-  "version": "0.1.0",
-  "description": "Custom theme for JSON Resume created by asarolia",
-  "author": "Abhishek Sarolia",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/asarolia/jsonresume-theme-asarolia"
+  "name": "jsonresume-theme-kendall",
+  "version": "0.1.19",
+  "description": "A JSON Resume theme built with bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "author": "M. Adam Kendall",
   "license": "MIT",
   "dependencies": {
-    "handlebars": "^4.1.0",
-    "nodemon": "^1.18.10"
-  }
+    "gravatar": "^1.0.6",
+    "lodash": "^2.4.1",
+    "mustache": "^2.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/linuxbozo/jsonresume-theme-kendall.git"
+  },
+  "keywords": [
+    "json",
+    "jsonresume",
+    "theme"
+  ],
+  "bugs": {
+    "url": "https://github.com/linuxbozo/jsonresume-theme-kendall/issues"
+  },
+  "homepage": "https://github.com/linuxbozo/jsonresume-theme-kendall"
 }
