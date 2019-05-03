@@ -1,0 +1,261 @@
+{
+    "basics": {
+      "name": "Abhishek Sarolia",
+      "label": "Professional 2: Application Designer",
+      "picture": "https://www.gravatar.com/avatar/6f11824bd9b99087bbeb0877bca41f60",
+      "email": "sarolia.abhishek@gmail.com",
+      "phone": "(+91) 7838590016",
+      "website": "https://saroliatechworks.wordpress.com",
+      "summary": "Passionate technologist, fast learner and problem solver. I'm working as a web Solution Designer/Application Designer for DXC Technology. I'm a proud geek and have extensive experience in designing and building highly performant and scalable full stack web applications or products for cloud using agile methodologies. I hope to pursue a role where I can use my technical and domain experience to design & build meaningful applications.",
+      "location": {
+        "address": "B 502, JM Aroma, Sector 75",
+        "postalCode": "201301",
+        "city": "Noida",
+        "countryCode": "IN",
+        "region": "UttarPradesh"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "abhishek-sarolia",
+          "url": "https://www.linkedin.com/in"
+        },
+        {
+          "network": "github",
+          "username": "asarolia",
+          "url": "https://www.github.com"
+        },
+        {
+          "network": "Twitter",
+          "username": "asarolia",
+          "url": "https://www.twitter.com"
+        }
+       
+      ]
+    },
+    "work": [ 
+      {
+        "company": "DXC Technology",
+        "position": "Professional 2: Application Designer",
+        "website": "https://dxc.com",
+        "startDate": "2010-06-21",
+        "endDate": "",
+        "summary": "Exceed is a multi-tier P&C insurance product used by Aviva UK to serve its general insurance customers across UK. Exceed is used to process all policy and claims processing for Aviva UK direct general insurance within contact center and digital channels. Other than direct business for Aviva UK, Exceed is also used to process policies from all Aviva's corporate partners inlcuding HSBC,Barclays,TSB,Santander etc.",
+        "highlights": [
+          "Implementation Lead/Application SME for Exceed cloud migration program at client location Norwich,UK",
+          "Implementation lead for DXC Aviva UK innovation hub which has so far converted 4 POC technology work into full blown client funded projects",
+          "Responsible for developing architecture and design artifacts for migrating on premise Exceed application into AWS cloud for Aviva UK",
+          "Designed & developed Exceed SQL CI&CD pipelines for AWS cloud.",
+          "Implemented web services virtualization on Exceed using CA LISA.",
+          "Implemented monitoring solutions for Exceed using App Dynamics and Splunk.",
+          "Managed various business critical deliveries with minimal issues which indirectly contributed significantly in improving CSAT scores for account over the years.",
+          "Responsible for estimation, impact analysis, creation of HLD and LLD docs, build, code reviews and mentoring."
+        ]
+      },
+      {
+        "company": "Syntel India Pvt Ltd",
+        "position": "Software Developer, Associate Engineer, Graduate Trainee",
+        "website": "https://www.atos-syntel.net/",
+        "startDate": "2006-09-01",
+        "endDate": "2010-06-20",
+        "summary": "Millenium is a financial procurement and accounting system having different modules like Accounts Payables, Advertising and Promotion Expenditure Control System (APECS), Capital Projects, Asset Management and Inventory Control in it. Millennium system handles the day to day financial aspects of AMEX",
+        "highlights": [
+          "Involved in enhancement and development of global accounting and payment financial system for American Express.",
+          "Involved in coding, design, test and code reviews activities."
+          
+        ]
+      }
+    ],
+    "volunteer": [
+      {
+        "organization": "DXC Labs",
+        "position": "OSS contributor",
+        "website": "http://www.dxc.technology/cr/ds/118265/118297-the_dxc_foundation",
+        "startDate": "2012-06-01",
+        "endDate": "2019-12-03",
+        "summary": "Fostering global literacy with focus on science, technology, engineering and mathematics (STEM) for children aging from kindergarten to college.",
+        "highlights": [
+          "Recieved COA for being 'Mentee of the Month'"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "University of Rajasthan",
+        "area": "Electrical",
+        "studyType": "Bachelor of Engineering",
+        "startDate": "2002-04-01",
+        "endDate": "2006-06-30",
+        "Grade": "Honours"
+      },
+      {
+        "institution": "Kendriya Vidyalaya",
+        "area": "Senior Secondary",
+        "studyType": "Science Maths with Computers",
+        "startDate": "2001-03-15",
+        "endDate": "2000-04-01",
+        "Grade": "Distinction"
+        
+      }
+    ],
+    "awards": [
+      {
+        "title": "Cloud COA",
+        "date": "2017-03-26",
+        "awarder": "Aviva UK & DXC Technology",
+        "summary": "Received award from Head of GI & Operations, Aviva UK in recognition of 'Extraordinary contribution for Aviva UK AWS migration programme'"
+      },
+      {
+        "title": "UnitedByHCL Hackathon winner",
+        "date": "2017-09-16",
+        "awarder": "HCL & HackerEarth",
+        "summary": "Developed server less AI chat bot and Alexa skill for on demand logistic services utilizing automated object recognition and discovery using OpenCV."
+      },
+      {
+        "title": "Innovation COA",
+        "date": "2016-02-02",
+        "awarder": "Computer Science Corporation",
+        "summary": "Received award from CSC Vice President IT(Rick Wilhelm) and Aviva UK GI Director(Alan Sheridan) for redesigning and upgrading Exceed legacy architecture and make it ready for cloud adoption and migration."
+      },
+      {
+        "title": "Winner of Quarter'15",
+        "date": "2015-03-15",
+        "awarder": "Computer Science Corporation",
+        "summary": "Received recognition for implementing micro services architecture in Exceed and decoupling non production environment from other systems to reduce development infrastructure costs."
+      },
+      {
+        "title": "TMOM COA",
+        "date": "2015-06-10",
+        "awarder": "Computer Science Corporation",
+        "summary": "Received account COA for contribution to Exceed project - Feb'10, Q3'11, Nov'11, May'14, Jan'15, Jun'15. "
+      },
+      {
+        "title": "Hack 24 Winner",
+        "date": "2014-05-10",
+        "awarder": "Aviva UK",
+        "summary": "Designed and developed claims express journey on Exceed by reducing web journey from 10 screens to 4"
+      },
+      {
+        "title": "Key to Success",
+        "date": "2012-03-12",
+        "awarder": "Computer Science Corporation",
+        "summary": "Received CSC India insurance vertical Key to success for significant contribution to Aviva UK Exceed project."
+      }
+  
+    ],
+    "certifications": [
+      {
+        "institution": "Amazon",
+        "area": "",
+        "studyType": "AWS Certified Solutions Architect & AWS Certified Developer",
+        "startDate": "2019-04-09",
+        "endDate": "",
+        "Grade": ""
+      },
+      {
+        "institution": "IBM",
+        "area": "",
+        "studyType": "IBM Certified Application Developer - Cloud Platform V1 ",
+        "startDate": "2016-12-01",
+        "endDate": "",
+        "Grade": ""
+      },
+      {
+        "institution": "Microsoft",
+        "area": "",
+        "studyType": "Exam 480: Programming in HTML5 with JavaScript and CSS3",
+        "startDate": "2016-10-01",
+        "endDate": "",
+        "Grade": ""
+      },
+      {
+        "institution": "AICPA,AICPU",
+        "area": "",
+        "studyType": "INS 21 Certified",
+        "startDate": "2011-06-01",
+        "endDate": "",
+        "Grade": ""
+      },
+      {
+        "institution": "EXIN",
+        "area": "",
+        "studyType": "ITIL v3 Foundation certified",
+        "startDate": "2009-10-01",
+        "endDate": "",
+        "Grade": ""
+      },
+      {
+        "institution": "IBM",
+        "area": "",
+        "studyType": "IBM certified Database associate v8",
+        "startDate": "2009-06-01",
+        "endDate": "",
+        "Grade": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "",
+        "level": "Proficient",
+        "keywords": [
+          "HTML5",
+          "CSS3",
+          "Javascript",
+          "C#",
+          "VB.Net",
+          "Python",
+          "React & Redux",
+          "Angular",
+          "Node.js",
+          "GraphQL",
+          "MS SQL & Mongo DB",
+          "ASP.Net & .Net Core",
+          "AWS & Azure",
+          "Jenkins",
+          "Github, Bitbucket"
+        ]
+      },
+      {
+        "name": "",
+        "level": "Familiar",
+        "keywords": [
+          "Java",
+          "Puppet",
+          "Terraform",
+          "Cloud Foundry",
+          "Powershell",
+          "CA Lisa",
+          "AppDynamics",
+          "IBM Cloud",
+          "My SQL",
+          "Gitlab"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "Hindi",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "French",
+        "fluency": "Learning"
+      }
+    ],
+    "interests": [
+      {
+        "name": "",
+        "keywords": [
+          "Conversational AI",
+          "Vision & Voice Analytics",
+          "IOT",
+          "Reading",
+          "Travel"
+        ]
+      }
+    ]
+  }

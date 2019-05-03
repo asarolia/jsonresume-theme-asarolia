@@ -90,3 +90,8 @@ blockquote,
   border-width: 4px;
   pointer-events: none;
  }
+
+ .skill-level{
+   border: .2px solid gray;
+   
+ }
