@@ -1,0 +1,270 @@
+{
+    "basics": {
+      "name": "Abhishek Sarolia",
+      "label": "Professional 2: Application Designer",
+      "picture": "https://www.gravatar.com/avatar/6f11824bd9b99087bbeb0877bca41f60",
+      "email": "sarolia.abhishek@gmail.com",
+      "phone": "(+91) 7838590016",
+      "website": "https://saroliatechworks.wordpress.com",
+      "summary": "Solution designer with total 12 years of experience in software development using agile & waterfall methodologies. Total 7 years of extensive web development experience utilizing modern JS and .Net MVC technology stacks. Hands on experience in designing cloud native & migration solutions for modern distributed web applications. Experience in leading/managing teams, mentoring engineers and software architecture.",
+      "location": {
+        "address": "B 502, JM Aroma, Sector 75",
+        "postalCode": "201301",
+        "city": "Noida",
+        "countryCode": "IN",
+        "region": "UttarPradesh"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "abhishek-sarolia",
+          "url": "https://www.linkedin.com/in/abhishek-sarolia-40bb7823/"
+        },
+        {
+          "network": "github",
+          "username": "asarolia",
+          "url": "https://www.github.com/asarolia"
+        },
+        {
+          "network": "Twitter",
+          "username": "asarolia",
+          "url": "https://www.twitter.com/asarolia"
+        }
+       
+      ]
+    },
+    "work": [ 
+      {
+        "company": "DXC Technology",
+        "position": "Senior Developer, Project Lead, Professional 2: Application Designer",
+        "website": "https://dxc.com",
+        "startDate": "2010-06-21",
+        "endDate": "",
+        "summary": "Currently associated with Aviva UK cloud Migration factory in designing cloud-native and migration solutions for AWS Direct. Prior to that associated with DXC P&C insurance product offering for UK markets.",
+        "highlights": [
+          "Implementation lead on designing cloud native and migration solution for Aviva UK GI and digital business lines.",
+          "Scripted CI&CD pipelines on AWS cloud using Terraform, packer, puppet and Jenkins for one of the biggest multi-tier GI application.",
+          "Implementation lead for DXC Aviva UK innovation hub which has so far converted 4 POC technology work into full blown client funded projects for DXC Technology and contributed to revenue growth of account.",
+          "Implemented web services virtualization on Exceed using CA LISA.",
+          "Implemented monitoring solutions for Exceed using App Dynamics and Splunk.",
+          "Managed various business critical deliveries as onshore(UK) lead for 4 years with minimal issues which indirectly contributed significantly in improving CSAT scores for account over the years.",
+          "Responsible for exploring and evaluating cutting edge technologies and tools for application improvement.",
+          "Responsible for estimation, impact analysis, creation of HLD and LLD docs, build, code reviews and mentoring."
+        ]
+      },
+      {
+        "company": "Syntel India Pvt Ltd",
+        "position": "Trainee & Anayst Programmer",
+        "website": "https://www.atos-syntel.net/",
+        "startDate": "2006-09-01",
+        "endDate": "2010-06-20",
+        "summary": "Millenium is a financial procurement and accounting system having different modules like Accounts Payables, Advertising and Promotion Expenditure Control System (APECS), Capital Projects, Asset Management and Inventory Control in it. Millennium system handles the day to day financial aspects of AMEX",
+        "highlights": [
+          "Involved in enhancement and development of global accounting and payment financial system for American Express.",
+          "Involved in coding, design, test and code reviews activities."
+          
+        ]
+      }
+    ],
+    "volunteer": [
+      {
+        "organization": "DXC Technology",
+        "position": "Teacher",
+        "website": "http://www.dxc.technology/cr/ds/118265/118297-the_dxc_foundation",
+        "startDate": "2012-06-01",
+        "endDate": "2019-12-03",
+        "summary": "Fostering global literacy with focus on science, technology, engineering and mathematics (STEM) for children aging from kindergarten to college.",
+        "highlights": [
+          "Recieved appreciation for being 'Mentee of the Month'"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "University of Rajasthan",
+        "area": "Electrical",
+        "studyType": "Bachelor of Engineering",
+        "startDate": "2002-04-01",
+        "endDate": "2006-06-30",
+        "Grade": "Honours"
+      },
+      {
+        "institution": "Kendriya Vidyalaya",
+        "area": "Senior Secondary",
+        "studyType": "Science Maths with Computers",
+        "startDate": "2001-03-15",
+        "endDate": "2000-04-01",
+        "Grade": "Distinction"
+        
+      }
+    ],
+    "awards": [
+      {
+        "title": "Cloud COA",
+        "date": "2019-03-26",
+        "awarder": "Aviva UK & DXC Technology",
+        "summary": "Received award from Head of GI & Operations, Aviva UK in recognition of 'Extraordinary contribution for Aviva UK AWS migration programme'"
+      },
+      {
+        "title": "UnitedByHCL Hackathon winner",
+        "date": "2017-09-16",
+        "awarder": "HCL & HackerEarth",
+        "summary": "Developed server less AI chat bot and Alexa skill for on demand logistic services utilizing automated object recognition and discovery using OpenCV."
+      },
+      {
+        "title": "Innovation COA",
+        "date": "2016-02-02",
+        "awarder": "Computer Science Corporation",
+        "summary": "Received award from CSC Vice President IT(Rick Wilhelm) and Aviva UK GI Director(Alan Sheridan) for redesigning and upgrading Exceed legacy architecture and make it ready for cloud adoption and migration."
+      },
+      {
+        "title": "TMOM COA",
+        "date": "2015-06-10",
+        "awarder": "Computer Science Corporation",
+        "summary": "Received account COA for contribution to Exceed project - Feb'10, Q3'11, Nov'11, May'14, Jan'15, Jun'15. "
+      },
+      {
+        "title": "Key to Success",
+        "date": "2012-03-12",
+        "awarder": "Computer Science Corporation",
+        "summary": "Received CSC India insurance vertical Key to success for significant contribution to Aviva UK Exceed project."
+      }
+  
+    ],
+    "certifications": [
+      {
+        "institution": "Amazon",
+        "area": "",
+        "studyType": "AWS Certified Solutions Architect",
+        "startDate": "2019-04-12",
+        "endDate": "",
+        "Grade": ""
+      },
+      {
+        "institution": "IBM",
+        "area": "",
+        "studyType": "IBM Certified Application Developer - Cloud Platform V1 ",
+        "startDate": "2016-12-01",
+        "endDate": "",
+        "Grade": ""
+      },
+      {
+        "institution": "Microsoft",
+        "area": "",
+        "studyType": "Exam 480: Programming in HTML5 with JavaScript and CSS3",
+        "startDate": "2016-10-01",
+        "endDate": "",
+        "Grade": ""
+      },
+      {
+        "institution": "AICPA,AICPU",
+        "area": "",
+        "studyType": "INS 21 Certified",
+        "startDate": "2011-06-01",
+        "endDate": "",
+        "Grade": ""
+      },
+      {
+        "institution": "EXIN",
+        "area": "",
+        "studyType": "ITIL v3 Foundation certified",
+        "startDate": "2009-10-01",
+        "endDate": "",
+        "Grade": ""
+      },
+      {
+        "institution": "IBM",
+        "area": "",
+        "studyType": "IBM certified Database associate v8",
+        "startDate": "2009-06-01",
+        "endDate": "",
+        "Grade": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "Technologies",
+        "level": "",
+        "keywords": [
+          "HTML5",
+          "CSS3",
+          "Javascript",
+          "Typescript",
+          "Webpack",
+          "SAAS",
+          "C#",
+          "Terraform",
+          "Puppet",
+          "Ansible",
+          "Jenkins",
+          "Docker"
+        ]
+      },
+      {
+        "name": "Frameworks",
+        "level": "",
+        "keywords": [
+          "Nodejs",
+          "Angular",
+          "React&Redux",
+          "jQuery",
+          "ASP.Net MVC"
+        ]
+      },
+      {
+        "name": "Databases",
+        "level": "",
+        "keywords": [
+          "MS SQL",
+          "Mongo DB"
+        ]
+      },
+      {
+        "name": "Version Control",
+        "level": "",
+        "keywords": [
+          "Bitbucket",
+          "Stash",
+          "Git",
+          "SVN",
+          "VSTS"
+        ]
+      },
+      {
+        "name": "Cloud",
+        "level": "",
+        "keywords": [
+          "AWS",
+          "IBM Cloud",
+          "Azure"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "Hindi",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "Swedish",
+        "fluency": "Learning"
+      }
+    ],
+    "interests": [
+      {
+        "name": "",
+        "keywords": [
+          "Conversational AI",
+          "Vision & Voice Analytics",
+          "IOT",
+          "Reading",
+          "Travel",
+          "Blogging"
+        ]
+      }
+    ]
+  }

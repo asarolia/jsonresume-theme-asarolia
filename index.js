@@ -263,9 +263,10 @@ function render(resumeObject) {
         // if (resumeObject.skills[0].name) {
         //     resumeObject.skillsBool = true;
         // }
-        if (resumeObject.skills[0].level) {
-            resumeObject.skillsBool = true;
-        }
+        // if (resumeObject.skills[0].level) {
+        //     resumeObject.skillsBool = true;
+        // }
+        resumeObject.skillsBool = true;
     }
 
     if (resumeObject.interests && resumeObject.interests.length) {

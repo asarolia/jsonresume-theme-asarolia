@@ -96,18 +96,6 @@
             </ul>
           </div>
           {{/awardsBool}}
-          {{#languagesBool}}
-          <!-- LANGUAGES -->
-          <div class="box">
-            <h2><i class="fa fa-language ico"></i> Languages</h2>
-            <ul class="list-group">
-              {{#languages}}
-              <li class=" list-group-item">{{language}}<span class="skill badge pull-right">{{fluency}}</span></li>
-              {{/languages}}
-            </ul>
-          </div>
-          {{/languagesBool}}
-          
           
         </div>
         <div class="col-xs-12 col-sm-5">
@@ -190,7 +178,7 @@
               </div>
               <div class="col-sm-offset-1 col-sm-12 clearfix">
                 {{#keywords}}
-                <span class= "skill badge bprint">{{{.}}}</span>
+                <span class= "skill badge">{{{.}}}</span>
                 {{/keywords}}
               </div>
             </div>
@@ -255,6 +243,35 @@
             </ul>
           </div>
           {{/certificationsBool}}
+          {{#languagesBool}}
+          <!-- LANGUAGES -->
+          <div class="box">
+            <h2><i class="fa fa-language ico"></i> Languages</h2>
+            <ul class="list-group">
+              {{#languages}}
+              <li class=" list-group-item">{{language}}<span class="skill badge pull-right">{{fluency}}</span></li>
+              {{/languages}}
+            </ul>
+          </div>
+          {{/languagesBool}}
+          {{#interestsBool}}
+          <!-- HOBBIES -->
+          <div class="box">
+            <h2><i class="fa fa-heart ico"></i> Interests</h2>
+            {{#interests}}
+            <div class="interests clearfix">
+              <div class="item-interests">
+                  {{name}}
+              </div>
+              <div class="col-sm-12 clearfix">
+                {{#keywords}}
+                <span class= "interest badge">{{{.}}}</span>
+                {{/keywords}}
+              </div>
+            </div>
+            {{/interests}}
+          </div>
+          {{/interestsBool}}
           {{#referencesBool}}
           <div class="box">
             <h2><i class= "fa fa-check-square ico"></i> References</h2>
@@ -305,24 +322,6 @@
             {{/volunteer}}
           </div>
           {{/volunteerBool}}
-          {{#interestsBool}}
-          <!-- HOBBIES -->
-          <div class="box">
-            <h2><i class="fa fa-heart ico"></i> Interests</h2>
-            {{#interests}}
-            <div class="interests clearfix">
-              <div class="item-interests">
-                  {{name}}
-              </div>
-              <div class="col-sm-12 clearfix">
-                {{#keywords}}
-                <span class= "interest badge">{{{.}}}</span>
-                {{/keywords}}
-              </div>
-            </div>
-            {{/interests}}
-          </div>
-          {{/interestsBool}}
         </div>
       </div>
     </div>
