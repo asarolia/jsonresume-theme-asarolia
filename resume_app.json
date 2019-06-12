@@ -6,7 +6,7 @@
       "email": "sarolia.abhishek@gmail.com",
       "phone": "(+91) 7838590016",
       "website": "https://saroliatechworks.wordpress.com",
-      "summary": "Solution designer with total 12 years of experience in software development using agile & waterfall methodologies. Total 7 years of extensive web development experience utilizing modern JS and .Net MVC technology stacks. Hands on experience in designing cloud native & migration solutions for modern distributed web applications. Experience in leading/managing teams, mentoring engineers and software architecture.",
+      "summary": "A senior engineer with over 12 years of experience in software development using agile & waterfall methodologies. Over 7 years of extensive experience in designing and building full stack web applications utilizing Modern JS and/or ASP.Net MVC stacks. Hands on experience in designing cloud native solutions for modern web systems as well as integrating them with mainframe systems. Experience in leading/managing teams, mentoring engineers and software architecture.",
       "location": {
         "address": "B 502, JM Aroma, Sector 75",
         "postalCode": "201301",
@@ -37,31 +37,33 @@
       {
         "company": "DXC Technology",
         "position": "Senior Developer, Project Lead, Professional 2: Application Designer",
-        "website": "https://dxc.com",
+        "website": "https://www.dxc.technology/insurance/offerings/11097-insurance_software",
         "startDate": "2010-06-21",
         "endDate": "",
-        "summary": "Currently associated with Aviva UK cloud Migration factory in designing cloud-native and migration solutions for AWS Direct. Prior to that associated with DXC P&C insurance product offering for UK markets.",
+        "summary": "Currently associated with DXC insurance software and services vertical responsible for various product development. Prior to this associated with P&C insurance product services team for Aviva UK.",
         "highlights": [
-          "Implementation lead on designing cloud native and migration solution for Aviva UK GI and digital business lines.",
-          "Scripted CI&CD pipelines on AWS cloud using Terraform, packer, puppet and Jenkins for one of the biggest multi-tier GI application.",
           "Implementation lead for DXC Aviva UK innovation hub which has so far converted 4 POC technology work into full blown client funded projects for DXC Technology and contributed to revenue growth of account.",
           "Implemented web services virtualization on Exceed using CA LISA.",
           "Implemented monitoring solutions for Exceed using App Dynamics and Splunk.",
-          "Managed various business critical deliveries as onshore(UK) lead for 4 years with minimal issues which indirectly contributed significantly in improving CSAT scores for account over the years.",
-          "Responsible for exploring and evaluating cutting edge technologies and tools for application improvement.",
+          "Implementation lead for Aviva IVR solution design and its integration with Exceed system",
+          "Managed various business critical deliveries as onshore(UK) lead for 4 years with minimal issues which contributed significantly in improving CSAT scores for account over the years.",
+          "Responsible for exploring and evaluating cutting edge technologies and tools for client RFP.",
+          "Responsible for understanding business requirements and converting them into high level solution design.",
+          "Responsible for designing cloud native & migration solutions for Aviva UK in their GI and Digital business.",
+          "Responsible for designing and building CI&CD pipelines for AWS cloud.",
           "Responsible for estimation, impact analysis, creation of HLD and LLD docs, build, code reviews and mentoring."
         ]
       },
       {
         "company": "Syntel India Pvt Ltd",
-        "position": "Trainee & Anayst Programmer",
+        "position": "Trainee & Analyst Programmer",
         "website": "https://www.atos-syntel.net/",
         "startDate": "2006-09-01",
         "endDate": "2010-06-20",
         "summary": "Millenium is a financial procurement and accounting system having different modules like Accounts Payables, Advertising and Promotion Expenditure Control System (APECS), Capital Projects, Asset Management and Inventory Control in it. Millennium system handles the day to day financial aspects of AMEX",
         "highlights": [
           "Involved in enhancement and development of global accounting and payment financial system for American Express.",
-          "Involved in coding, design, test and code reviews activities."
+          "Involved in coding, design, test and code review activities."
           
         ]
       }
@@ -75,7 +77,18 @@
         "endDate": "2019-12-03",
         "summary": "Fostering global literacy with focus on science, technology, engineering and mathematics (STEM) for children aging from kindergarten to college.",
         "highlights": [
-          "Recieved appreciation for being 'Mentee of the Month'"
+          ""
+        ]
+      },
+      {
+        "organization": "Open Source Software for Coding-Coach & freeCodeCamp",
+        "position": "Contributor",
+        "website": "https://github.com",
+        "startDate": "2018-11-01",
+        "endDate": "",
+        "summary": "Contributing to open source software on github",
+        "highlights": [
+          ""
         ]
       }
     ],
@@ -106,7 +119,7 @@
         "summary": "Received award from Head of GI & Operations, Aviva UK in recognition of 'Extraordinary contribution for Aviva UK AWS migration programme'"
       },
       {
-        "title": "UnitedByHCL Hackathon winner",
+        "title": "UnitedByHCL International Hackathon winner",
         "date": "2017-09-16",
         "awarder": "HCL & HackerEarth",
         "summary": "Developed server less AI chat bot and Alexa skill for on demand logistic services utilizing automated object recognition and discovery using OpenCV."
@@ -135,7 +148,7 @@
       {
         "institution": "Amazon",
         "area": "",
-        "studyType": "AWS Certified Solutions Architect",
+        "studyType": "AWS Certified Solutions Architect-Associate",
         "startDate": "2019-04-12",
         "endDate": "",
         "Grade": ""
@@ -183,7 +196,7 @@
     ],
     "skills": [
       {
-        "name": "Technologies",
+        "name": "Programming",
         "level": "",
         "keywords": [
           "HTML5",
@@ -193,30 +206,30 @@
           "Webpack",
           "SAAS",
           "C#",
-          "Terraform",
-          "Puppet",
-          "Ansible",
-          "Jenkins",
-          "Docker"
+          "Python",
+          "Mainframes"
         ]
       },
       {
-        "name": "Frameworks",
+        "name": "Frameworks/Library",
         "level": "",
         "keywords": [
-          "Nodejs",
-          "Angular",
-          "React&Redux",
-          "jQuery",
-          "ASP.Net MVC"
+          "Node.js",
+          "Angular 2+",
+          "ASP.Net MVC",
+          "ASP.Net Web API",
+          ".Net Core",
+          "Jasmine",
+          "Nunit"
         ]
       },
       {
         "name": "Databases",
         "level": "",
         "keywords": [
-          "MS SQL",
-          "Mongo DB"
+          "SQL Server",
+          "Mongo DB",
+          "DB2"
         ]
       },
       {
@@ -250,7 +263,7 @@
         "fluency": "Native speaker"
       },
       {
-        "language": "Swedish",
+        "language": "French",
         "fluency": "Learning"
       }
     ],
@@ -260,7 +273,7 @@
         "keywords": [
           "Conversational AI",
           "Vision & Voice Analytics",
-          "IOT",
+          "Blockchain",
           "Reading",
           "Travel",
           "Blogging"
