@@ -6,7 +6,7 @@
       "email": "sarolia.abhishek@gmail.com",
       "phone": "(+91) 7838590016",
       "website": "https://saroliatechworks.wordpress.com",
-      "summary": "A senior engineer with over 12 years of experience in software development using agile & waterfall methodologies. Over 7 years of extensive experience in designing and building full stack web applications utilizing Modern JS and/or ASP.Net MVC stacks. Hands on experience in designing cloud native solutions for modern web systems as well as integrating them with mainframe systems. Experience in leading/managing teams, mentoring engineers and software architecture.",
+      "summary": "Senior engineer with over 12 years of experience in software development using agile & waterfall methodologies. Over 8 years of extensive experience in designing and building full stack web applications utilizing Modern JS and/or ASP.Net MVC stacks. Hands on experience in designing cloud native and migration solutions for modern web systems as well as integrating them with mainframe systems. Experience in leading/managing teams, mentoring engineers, and software architecture using design patterns.",
       "location": {
         "address": "B 502, JM Aroma, Sector 75",
         "postalCode": "201301",
@@ -40,18 +40,14 @@
         "website": "https://www.dxc.technology/insurance/offerings/11097-insurance_software",
         "startDate": "2010-06-21",
         "endDate": "",
-        "summary": "Currently associated with DXC insurance software and services vertical responsible for various product development. Prior to this associated with P&C insurance product services team for Aviva UK.",
+        "summary": "Associated with DXC insurance software and services vertical which is responsible for developing insurance products and providing client services around products. As part of DXC labs working on building reference business solutions using conversational AI on AWS cloud.",
         "highlights": [
-          "Implementation lead for DXC Aviva UK innovation hub which has so far converted 4 POC technology work into full blown client funded projects for DXC Technology and contributed to revenue growth of account.",
-          "Implemented web services virtualization on Exceed using CA LISA.",
-          "Implemented monitoring solutions for Exceed using App Dynamics and Splunk.",
-          "Implementation lead for Aviva IVR solution design and its integration with Exceed system",
-          "Managed various business critical deliveries as onshore(UK) lead for 4 years with minimal issues which contributed significantly in improving CSAT scores for account over the years.",
-          "Responsible for exploring and evaluating cutting edge technologies and tools for client RFP.",
-          "Responsible for understanding business requirements and converting them into high level solution design.",
-          "Responsible for designing cloud native & migration solutions for Aviva UK in their GI and Digital business.",
-          "Responsible for designing and building CI&CD pipelines for AWS cloud.",
-          "Responsible for estimation, impact analysis, creation of HLD and LLD docs, build, code reviews and mentoring."
+          "Spearheaded DXC UK innovation hub under which successfully converted 4 POC technology work into full blown client funded projects for DXC Technology and contributed to revenue growth of UK account.",
+          "Mentored and guided insurance product teams across global insurance markets in implementing application monitoring using AppDynamics and  web services virtualization using CA LISA product.",
+          "Designed cloud native & migration solution for Aviva UK in their GI and digital business covering various multi-tier web & analytics applications.",
+          "Implementation and design lead for Aviva UK on Card Secure, Aviva wallet, IVR, Flood Re, and Barclays U shape solution integration with insurance product Exceed.",
+          "Managed various business critical deliveries as DXC insurance onshore(UK) lead for 4 years with minimal issues which contributed significantly in improving CSAT scores for account over the years from -100 to +7",
+          "Responsible for research and development on latest tools and technologies for developing reference business solutions as part of DXC labs."
         ]
       },
       {
@@ -215,9 +211,10 @@
         "level": "",
         "keywords": [
           "Node.js",
-          "Angular 2+",
+          "Angular",
           "ASP.Net MVC",
           "ASP.Net Web API",
+          "WCF",
           ".Net Core",
           "Jasmine",
           "Nunit"
