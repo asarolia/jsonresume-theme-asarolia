@@ -6,7 +6,7 @@
       "email": "sarolia.abhishek@gmail.com",
       "phone": "(+91) 7838590016",
       "website": "https://saroliatechworks.wordpress.com",
-      "summary": "Solution designer with total 12 years of experience in software development using agile & waterfall methodologies. Total 7 years of extensive web development experience utilizing modern JS and .Net MVC technology stacks. Hands on experience in designing cloud native & migration solutions for modern distributed web applications. Experience in leading/managing teams, mentoring engineers and software architecture.",
+      "summary": "Solution designer with total 12 years of experience in software development using agile & waterfall methodologies. Extensive web development experience utilizing modern JS and .Net MVC technology stacks. Hands on experience in designing cloud native & migration solutions for modern distributed web applications. Experience in leading/managing teams, mentoring engineers and software architecture utilizing design patterns.",
       "location": {
         "address": "B 502, JM Aroma, Sector 75",
         "postalCode": "201301",
@@ -37,19 +37,18 @@
       {
         "company": "DXC Technology",
         "position": "Senior Developer, Project Lead, Professional 2: Application Designer",
-        "website": "https://dxc.com",
+        "website": "https://www.dxc.technology/insurance/offerings/11097-insurance_software",
         "startDate": "2010-06-21",
         "endDate": "",
-        "summary": "Currently associated with Aviva UK cloud Migration factory in designing cloud-native and migration solutions for AWS Direct. Prior to that associated with DXC P&C insurance product offering for UK markets.",
+        "summary": "Associated with DXC insurance software and services vertical where I worked on various enterprise level insurance products like Exceed, RiskMaster, DIaaS. Currently working closely with DXC sales team as cloud solution advisor for EMEA markets. Contributing to DXC Labs in implementing reference business solutions utilizing vision and conversational AI.",
         "highlights": [
-          "Implementation lead on designing cloud native and migration solution for Aviva UK GI and digital business lines.",
-          "Scripted CI&CD pipelines on AWS cloud using Terraform, packer, puppet and Jenkins for one of the biggest multi-tier GI application.",
-          "Implementation lead for DXC Aviva UK innovation hub which has so far converted 4 POC technology work into full blown client funded projects for DXC Technology and contributed to revenue growth of account.",
-          "Implemented web services virtualization on Exceed using CA LISA.",
-          "Implemented monitoring solutions for Exceed using App Dynamics and Splunk.",
-          "Managed various business critical deliveries as onshore(UK) lead for 4 years with minimal issues which indirectly contributed significantly in improving CSAT scores for account over the years.",
-          "Responsible for exploring and evaluating cutting edge technologies and tools for application improvement.",
-          "Responsible for estimation, impact analysis, creation of HLD and LLD docs, build, code reviews and mentoring."
+          "Architecting cloud workloads for Enterprise clients under DXC digital transformation practices team.",
+          "Developing web applications for POC/POV for new engagements.",
+          "Pre-Sales support work to build and showcase demos, responding to proposal requests.",
+          "Designed and architected IAAS/PAAS model solutions on AWS, Azure, & IBM cloud covering public, private and hybrid cloud.",
+          "Scripted CI&CD pipelines on AWS cloud utilizing Terraform & cloud formation, packer, puppet and Jenkins for DXC insurance product Exceed.",
+          "Implementation lead for DXC Aviva UK innovation hub which converted 4 POV technology work into full blown client funded projects for DXC Technology and contributed to revenue growth of account.",
+          "Managed various business critical deliveries as onshore(UK) lead for 4 years with minimal issues which indirectly contributed significantly in improving CSAT scores for account over the years."
         ]
       },
       {
@@ -67,15 +66,16 @@
       }
     ],
     "volunteer": [
+      
       {
-        "organization": "DXC Technology",
-        "position": "Teacher",
-        "website": "http://www.dxc.technology/cr/ds/118265/118297-the_dxc_foundation",
-        "startDate": "2012-06-01",
-        "endDate": "2019-12-03",
-        "summary": "Fostering global literacy with focus on science, technology, engineering and mathematics (STEM) for children aging from kindergarten to college.",
+        "organization": "Open Source Software for Coding-Coach & freeCodeCamp",
+        "position": "Contributor",
+        "website": "https://github.com",
+        "startDate": "2018-11-01",
+        "endDate": "",
+        "summary": "Contributing to open source software on github",
         "highlights": [
-          "Recieved appreciation for being 'Mentee of the Month'"
+          ""
         ]
       }
     ],
@@ -183,7 +183,7 @@
     ],
     "skills": [
       {
-        "name": "Technologies",
+        "name": "Programming",
         "level": "",
         "keywords": [
           "HTML5",
@@ -193,30 +193,39 @@
           "Webpack",
           "SAAS",
           "C#",
+          "LINQ",
+          "Jenkins",
+          "Powershell",
+          "Python",
+          "Mainframes",
           "Terraform",
           "Puppet",
-          "Ansible",
-          "Jenkins",
-          "Docker"
+          "Packer"
         ]
       },
       {
-        "name": "Frameworks",
+        "name": "Frameworks/Library",
         "level": "",
         "keywords": [
-          "Nodejs",
+          "Node.js",
           "Angular",
-          "React&Redux",
-          "jQuery",
-          "ASP.Net MVC"
+          "ASP.Net MVC",
+          "ASP.Net Web API",
+          "Entity Framework",
+          "WCF",
+          "ASP.Net Core",
+          "Jasmine",
+          "Karma",
+          "Nunit"
         ]
       },
       {
         "name": "Databases",
         "level": "",
         "keywords": [
-          "MS SQL",
-          "Mongo DB"
+          "SQL Server",
+          "Mongo DB",
+          "DB2"
         ]
       },
       {
@@ -236,7 +245,9 @@
         "keywords": [
           "AWS",
           "IBM Cloud",
-          "Azure"
+          "Azure",
+          "Docker",
+          "Kubernetes"
         ]
       }
     ],
@@ -248,10 +259,6 @@
       {
         "language": "Hindi",
         "fluency": "Native speaker"
-      },
-      {
-        "language": "Swedish",
-        "fluency": "Learning"
       }
     ],
     "interests": [
@@ -260,7 +267,7 @@
         "keywords": [
           "Conversational AI",
           "Vision & Voice Analytics",
-          "IOT",
+          "Blockchain",
           "Reading",
           "Travel",
           "Blogging"
